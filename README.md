@@ -22,6 +22,7 @@ contact &nbsp;&middot;&nbsp; [kljl6773@gmail.com](mailto:kljl6773@gmail.com)
 | [SafetyNevi](https://github.com/SanghyeokLee-KR/SafetyNevi) | 재난문자를 지도 위 위험구역으로 바꾸고 대피 경로를 안내. 팀 졸업작품을 인계받아 단독으로 운영 수준까지 보강 | 인계 후 단독 커밋 153건, 106일 지속 개발, 테스트 55건 |
 | [keep-nginx-alive](https://github.com/SanghyeokLee-KR/keep-nginx-alive) | root 공격자를 차단할 수 없는 CTF에서 nginx 가용성을 지킨 방어 기록 | 채점 다운 0회, bash 16개 914줄, systemd 유닛 12개, flock 기반 복구 직렬화 |
 | [high-throughput-image-pipeline](https://github.com/SanghyeokLee-KR/high-throughput-image-pipeline) | t3.micro 한 대에서 asyncio·Redis로 이미지 수집. 병목이 CPU임을 실측으로 규명 | 284 p/s, 평균 지연 85ms, CPU 100%·RAM 47% 실측 비교 |
+| [DeliveryPro](https://github.com/SanghyeokLee-KR/DeliveryPro) | 주문·매장·라이더를 잇는 배달 플랫폼. 묶음배달 경로 탐색을 라이브러리 없이 직접 구현 | 다익스트라·Held-Karp 직접 구현, 노드 525·간선 1,742, 테스트 41건, DB 설치 없이 한 줄 실행 |
 | [ai-lunch-curator](https://github.com/SanghyeokLee-KR/ai-lunch-curator) | 식단 수집부터 AI 분석·Teams 발송·EC2 배포까지 잇는 자동화 파이프라인 | pytest 23건이 배포 선행 게이트, Docker Compose · Nginx · GitHub Actions |
 
 ## 그 외 저장소
@@ -31,8 +32,7 @@ contact &nbsp;&middot;&nbsp; [kljl6773@gmail.com](mailto:kljl6773@gmail.com)
 | [polytalk](https://github.com/SanghyeokLee-KR/polytalk) | 서버가 평문을 보지 않는 1:1 E2EE 소켓 채팅. ECDH 키 교환과 AES-GCM을 직접 조립, 테스트 14건 |
 | [incident-response-cryptominer](https://github.com/SanghyeokLee-KR/incident-response-cryptominer) | 실제로 겪은 GPU 크립토재킹 감염을 탐지·제거·검증하고 Sysmon 탐지룰까지 정리한 기록 |
 | [kopo-ecommerce-evolution](https://github.com/SanghyeokLee-KR/kopo-ecommerce-evolution) | 같은 쇼핑몰을 JSON, JDBC, Spring Boot 세 단계로 다시 설계한 기록 |
-| [DevHub](https://github.com/SanghyeokLee-KR/DevHub) | 코드·UI 공유 커뮤니티. 실시간 채팅과 챗봇 포함한 팀 프로젝트 |
-| [DeliveryPro](https://github.com/SanghyeokLee-KR/DeliveryPro) | 사용자·매장·라이더·관리자를 하나의 흐름으로 잇는 배달 플랫폼 |
+| [DevHub](https://github.com/SanghyeokLee-KR/DevHub) | 코드·UI 공유 커뮤니티. 커스텀 세션 로그인을 그대로 두고 브릿지 필터로 인가만 얹어 민감 경로 28개를 막았습니다. 테스트 17건 |
 | [BookRidge](https://github.com/SanghyeokLee-KR/BookRidge) | Java를 배우고 처음 만든 콘솔 도서 관리 시스템 |
 | [linux-practice](https://github.com/SanghyeokLee-KR/linux-practice) | Linux 서버 구축 실습 기록 |
 
