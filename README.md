@@ -1,4 +1,4 @@
-# Lee Sang Hyeok · 이상혁
+# Lee Sang Hyeok
 
 Backend · Infra Developer
 
