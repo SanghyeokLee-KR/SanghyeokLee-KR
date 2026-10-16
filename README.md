@@ -76,7 +76,7 @@ contact  ·  [kljl6773@gmail.com](mailto:kljl6773@gmail.com)
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanghyeokLee-KR/SanghyeokLee-KR/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanghyeokLee-KR/SanghyeokLee-KR/output/github-snake.svg" />
-  <img alt="잔디를 먹는 뱀" src="https://raw.githubusercontent.com/SanghyeokLee-KR/SanghyeokLee-KR/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D로 그린 잔디" src="profile-3d-contrib/profile-green-animate.svg" />
 </picture>
