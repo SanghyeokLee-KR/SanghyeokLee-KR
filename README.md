@@ -20,17 +20,10 @@ contact  ·  [kljl6773@gmail.com](mailto:kljl6773@gmail.com)
 | [high-throughput-image-pipeline](https://github.com/SanghyeokLee-KR/high-throughput-image-pipeline) | 작은 EC2 한 대로 처리율을 끌어올린 이미지 수집 파이프라인 | Python · asyncio · Redis |
 | [DeliveryPro](https://github.com/SanghyeokLee-KR/DeliveryPro) | 음식 주문부터 매장 운영, 라이더 배달까지 이은 배달 플랫폼 | Spring Boot · Oracle |
 | [ai-lunch-curator](https://github.com/SanghyeokLee-KR/ai-lunch-curator) | 구내식당 식단표를 AI로 정리해 평일 Teams로 보내는 알림 | FastAPI · Docker · GitHub Actions |
-
-## 그 외 저장소
-
-| 저장소 | 소개 | 기술 |
-| :--- | :--- | :--- |
-| [polytalk](https://github.com/SanghyeokLee-KR/polytalk) | 서버도 메시지 내용을 볼 수 없는 1:1 종단 간 암호화 채팅 | Java · ECDH · AES-GCM |
-| [incident-response-cryptominer](https://github.com/SanghyeokLee-KR/incident-response-cryptominer) | 직접 겪은 GPU 크립토재킹 감염의 탐지와 대응 기록 | Sysmon · PowerShell |
-| [kopo-ecommerce-evolution](https://github.com/SanghyeokLee-KR/kopo-ecommerce-evolution) | 같은 쇼핑몰을 JSON · JDBC · Spring Boot 세 단계로 다시 만든 비교 | Java · JDBC · Spring Boot |
 | [DevHub](https://github.com/SanghyeokLee-KR/DevHub) | 코드와 UI를 공유하고 실시간으로 소통하는 개발자 커뮤니티 | Spring Security · WebSocket |
+| [polytalk](https://github.com/SanghyeokLee-KR/polytalk) | 서버도 메시지 내용을 볼 수 없는 1:1 종단 간 암호화 채팅 | Java · ECDH · AES-GCM |
+| [kopo-ecommerce-evolution](https://github.com/SanghyeokLee-KR/kopo-ecommerce-evolution) | 같은 쇼핑몰을 JSON, JDBC, Spring Boot로 다시 만든 비교 | Java · JDBC · Spring Boot |
 | [BookRidge](https://github.com/SanghyeokLee-KR/BookRidge) | Java를 배우며 처음 만든 콘솔 기반 도서 관리 프로그램 | Java · JDBC · Oracle |
-| [linux-practice](https://github.com/SanghyeokLee-KR/linux-practice) | Samba와 Rocky Linux로 서버 구축과 운영을 연습한 기록 | Rocky Linux · Samba |
 
 ## 기술 스택
 
