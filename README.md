@@ -10,26 +10,27 @@ contact  ·  [kljl6773@gmail.com](mailto:kljl6773@gmail.com)
 
 ## 주요 프로젝트
 
-| 프로젝트                                                                                                | 설명                                                                                                | 결과                                                                   |
-| :-------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------- |
-| [sangkwon-platform-poly](https://github.com/sangkwon-poly/sangkwon-platform-poly)                   | 소상공인 상권분석 플랫폼. DB 설계, 상권분석 API, 관리자 백오피스와 배포를 담당했습니다.                                             | 커밋 206건, PR 154건, 테스트 75파일 335건, EC2 2대 + ALB 구성                     |
-| [appintoss-meetup](https://github.com/Appintos-Harmony/appintoss-meetup)                            | 토스 미니앱 기반 합주 서비스. 백엔드 전체와 공유·커뮤니티 쪽 클라이언트를 맡았습니다.                                                 | 앱인토스 실제 출시, 커밋 240건, API 서버 450줄 중 378줄 작성                           |
-| [SafetyNevi](https://github.com/SanghyeokLee-KR/SafetyNevi)                                         | 재난문자를 지도 위 위험구역으로 표시하고 대피 경로를 안내하는 서비스입니다. 졸업작품을 인계받은 뒤 혼자 유지보수와 개선을 이어갔습니다.                      | 인계 후 커밋 153건, 106일간 개발, 테스트 55건                                      |
-| [keep-nginx-alive](https://github.com/SanghyeokLee-KR/keep-nginx-alive)                             | root 권한 공격자를 차단할 수 없는 CTF 환경에서 nginx를 최대한 오래 살려 두기 위해 만든 방어 스크립트와 운영 기록입니다.                       | 채점 다운 0회, bash 16개 914줄, systemd 유닛 12개, flock 기반 복구 직렬화             |
-| [high-throughput-image-pipeline](https://github.com/SanghyeokLee-KR/high-throughput-image-pipeline) | t3.micro 한 대에서 asyncio와 Redis를 이용해 이미지 수집 파이프라인을 구성했습니다. 부하 테스트를 통해 병목이 메모리가 아니라 CPU라는 점을 확인했습니다. | 284 p/s, 평균 지연 85ms, CPU 100%, RAM 47%                               |
-| [DeliveryPro](https://github.com/SanghyeokLee-KR/DeliveryPro)                                       | 주문, 매장, 라이더를 연결하는 배달 플랫폼입니다. 묶음배달 경로 탐색 로직도 구현했습니다.                                               | 다익스트라·Held-Karp 구현, 노드 525·간선 1,742, 테스트 41건, DB 설치 없이 실행 가능         |
-| [ai-lunch-curator](https://github.com/SanghyeokLee-KR/ai-lunch-curator)                             | 식단 수집부터 AI 분석, Teams 발송, EC2 배포까지 자동화한 파이프라인입니다.                                                  | pytest 23건을 배포 전 게이트로 사용, Docker Compose · Nginx · GitHub Actions 구성 |
+| 프로젝트 | 소개 | 기술 |
+| :--- | :--- | :--- |
+| [failstop](https://github.com/SanghyeokLee-KR/failstop) | 트래픽 급증과 DB 장애에 대비한 모의 거래소의 고가용성 인프라와 온프레미스 AI 관제 | Linux · AWS · Patroni |
+| [sangkwon-platform-poly](https://github.com/sangkwon-poly/sangkwon-platform-poly) | 서울시 공식 상권 데이터로 창업 입지를 결정하는 지도 기반 상권분석 플랫폼 | Spring Boot · Oracle · AWS |
+| [appintoss-meetup](https://github.com/Appintos-Harmony/appintoss-meetup) | 악기 없이 친구의 트랙 위에 연주를 얹어 한 곡을 완성하는 비동기 합주 토스 미니앱 | TypeScript · 앱인토스 |
+| [SafetyNevi](https://github.com/SanghyeokLee-KR/SafetyNevi) | 재난문자를 지도 위 위험구역으로 바꾸고 가까운 대피소까지 안내하는 재난 대피 서비스 | Spring Boot · FastAPI · Kafka |
+| [keep-nginx-alive](https://github.com/SanghyeokLee-KR/keep-nginx-alive) | 공격자를 차단할 수 없는 CTF에서 자동 복구와 트래픽 우회로 nginx를 지켜 낸 가용성 방어 | Bash · systemd · AWS NLB |
+| [high-throughput-image-pipeline](https://github.com/SanghyeokLee-KR/high-throughput-image-pipeline) | EC2 t3.micro 한 대에서 처리율을 끌어올린 고처리량 이미지 수집 파이프라인 | Python · asyncio · Redis |
+| [DeliveryPro](https://github.com/SanghyeokLee-KR/DeliveryPro) | 음식 주문부터 매장 운영, 라이더 배달까지 하나로 이은 배달 플랫폼 | Spring Boot · Oracle |
+| [ai-lunch-curator](https://github.com/SanghyeokLee-KR/ai-lunch-curator) | 구내식당 식단표를 AI로 정리해 평일 아침 Teams로 보내는 점심 알림 자동화 | FastAPI · Docker · GitHub Actions |
 
 ## 그 외 저장소
 
-| 저장소                                                                                               | 내용                                                                                                |
-| :------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------ |
-| [polytalk](https://github.com/SanghyeokLee-KR/polytalk)                                           | 서버가 평문 메시지를 볼 수 없는 1:1 E2EE 소켓 채팅입니다. ECDH와 AES-GCM을 사용했고 테스트 14건을 작성했습니다.                        |
-| [incident-response-cryptominer](https://github.com/SanghyeokLee-KR/incident-response-cryptominer) | 실제 GPU 크립토재킹 감염을 겪은 뒤 탐지, 제거, 검증 과정과 Sysmon 탐지 규칙을 정리했습니다.                                        |
-| [kopo-ecommerce-evolution](https://github.com/SanghyeokLee-KR/kopo-ecommerce-evolution)           | 같은 쇼핑몰을 JSON, JDBC, Spring Boot 세 단계로 다시 만들면서 구조가 어떻게 달라지는지 정리한 프로젝트입니다.                          |
-| [DevHub](https://github.com/SanghyeokLee-KR/DevHub)                                               | 코드와 UI를 공유하는 커뮤니티입니다. 기존 커스텀 세션 로그인은 유지하고, 브릿지 필터를 추가해 민감 경로 28개에 인가 처리를 적용했습니다. 테스트 17건을 작성했습니다. |
-| [BookRidge](https://github.com/SanghyeokLee-KR/BookRidge)                                         | Java를 배우면서 처음 만든 콘솔 기반 도서 관리 프로그램입니다.                                                             |
-| [linux-practice](https://github.com/SanghyeokLee-KR/linux-practice)                               | Linux 서버 구축과 운영을 연습하면서 남긴 기록입니다.                                                                  |
+| 저장소 | 소개 | 기술 |
+| :--- | :--- | :--- |
+| [polytalk](https://github.com/SanghyeokLee-KR/polytalk) | 서버도 메시지 내용을 볼 수 없는 1:1 종단 간 암호화(E2EE) 소켓 채팅 | Java · ECDH · AES-GCM |
+| [incident-response-cryptominer](https://github.com/SanghyeokLee-KR/incident-response-cryptominer) | 실제로 겪은 GPU 크립토재킹 감염의 탐지·제거·검증 기록과 탐지 규칙 | Sysmon · PowerShell |
+| [kopo-ecommerce-evolution](https://github.com/SanghyeokLee-KR/kopo-ecommerce-evolution) | 같은 쇼핑몰을 JSON, JDBC, Spring Boot 세 단계로 다시 만든 구조 비교 | Java · JDBC · Spring Boot |
+| [DevHub](https://github.com/SanghyeokLee-KR/DevHub) | 개발자들이 코드와 UI를 공유하는 커뮤니티 | Spring Security · WebSocket |
+| [BookRidge](https://github.com/SanghyeokLee-KR/BookRidge) | Java를 배우며 처음 만든 콘솔 기반 도서 관리 프로그램 | Java · JDBC · Oracle |
+| [linux-practice](https://github.com/SanghyeokLee-KR/linux-practice) | Linux 서버 구축과 운영 실습 기록 | Rocky Linux · Samba |
 
 ## 기술 스택
 
