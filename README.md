@@ -16,11 +16,22 @@ contact  ·  [kljl6773@gmail.com](mailto:kljl6773@gmail.com)
   <img alt="2024년부터 2026년까지 진행한 프로젝트 타임라인" src="assets/timeline-light.svg" width="100%" />
 </picture>
 
-## 주요 프로젝트
+## 대표 프로젝트
+
+<a href="https://github.com/SanghyeokLee-KR/failstop"><img src="https://raw.githubusercontent.com/SanghyeokLee-KR/failstop/main/docs/portfolio/cover.jpg" width="100%" alt="failstop 표지" /></a>
+
+**[failstop](https://github.com/SanghyeokLee-KR/failstop)** · 트래픽 급증과 DB 장애에도 버티는 거래소 인프라와 AI 관제
+
+직접 만든 모의 거래소를 운영 대상으로 삼아 로컬 Docker, 망 설계, VM 실습망, AWS 순서로 인프라를 구축하고, 일부러 장애를 내서 복구되는지 확인했습니다. 관제에는 온프레미스 AI 서버를 붙였습니다.
+
+장애 주입 시험 **179회** · DB 자동 승격 **23.0초, 유실 0건** · 월 운영비 **약 36.7만 원**
+
+[README](https://github.com/SanghyeokLee-KR/failstop#readme) · [발표 자료 PDF](https://github.com/SanghyeokLee-KR/failstop/blob/main/docs/portfolio/failstop-presentation.pdf) · [시연 영상](https://github.com/SanghyeokLee-KR/failstop/blob/main/%EB%B0%9C%ED%91%9C%EB%8D%B1/assets/video/failstop-aws-demo-v9.mp4)
+
+## 프로젝트
 
 | 프로젝트 | 소개 | 기술 |
 | :--- | :--- | :--- |
-| [failstop](https://github.com/SanghyeokLee-KR/failstop) | 트래픽 급증과 DB 장애에도 버티는 거래소 인프라와 AI 관제 | Linux · AWS · Patroni |
 | [sangkwon-platform-poly](https://github.com/sangkwon-poly/sangkwon-platform-poly) | 공공데이터로 창업 입지를 고르는 지도 기반 상권분석 플랫폼 | Spring Boot · Oracle · AWS |
 | [appintoss-meetup](https://github.com/Appintos-Harmony/appintoss-meetup) | 악기 없이 친구와 트랙을 쌓아 한 곡을 만드는 합주 미니앱 | TypeScript · 앱인토스 |
 | [SafetyNevi](https://github.com/SanghyeokLee-KR/SafetyNevi) | 재난문자를 지도 위 위험구역으로 그리고 대피소까지 안내 | Spring Boot · FastAPI · Kafka |
