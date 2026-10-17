@@ -1,6 +1,8 @@
-# Lee Sang Hyeok
-
-Backend · Infra Developer
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
+  <img alt="Lee Sang Hyeok · Backend · Infra Developer" src="assets/banner-light.svg" width="100%" />
+</picture>
 
 ## About Me
 

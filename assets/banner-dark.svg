@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 210" width="1000" height="210" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif" role="img" aria-labelledby="t">
+<title id="t">Lee Sang Hyeok, Backend · Infra Developer</title>
+<style>.nm{font-size:46px;font-weight:600;fill:#F0F6FC;letter-spacing:-0.02em}.rl{font-size:19px;fill:#9198A1;letter-spacing:0.01em}.lb{font-size:13px;fill:#9198A1;letter-spacing:0.04em}</style>
+<rect x="0.5" y="0.5" width="999" height="209" rx="12" fill="#151B23" stroke="#3D444D"/>
+<text class="nm" x="48" y="104">Lee Sang Hyeok</text>
+<text class="rl" x="50" y="142">Backend · Infra Developer</text>
+<line x1="600" y1="112" x2="936" y2="112" stroke="#3D444D" stroke-width="1.5"/>
+<circle cx="600.0" cy="112" r="5" fill="#4493F8" stroke="#151B23" stroke-width="3"/>
+<circle cx="642.0" cy="112" r="5" fill="#4493F8" stroke="#151B23" stroke-width="3"/>
+<circle cx="684.0" cy="112" r="5" fill="#4493F8" stroke="#151B23" stroke-width="3"/>
+<circle cx="726.0" cy="112" r="5" fill="#4493F8" stroke="#151B23" stroke-width="3"/>
+<circle cx="768.0" cy="112" r="5" fill="#4493F8" stroke="#151B23" stroke-width="3"/>
+<circle cx="810.0" cy="112" r="5" fill="#3FB950" stroke="#151B23" stroke-width="3"/>
+<circle cx="852.0" cy="112" r="5" fill="#3FB950" stroke="#151B23" stroke-width="3"/>
+<circle cx="894.0" cy="112" r="5" fill="#3FB950" stroke="#151B23" stroke-width="3"/>
+<circle cx="936.0" cy="112" r="9" fill="#151B23" stroke="#3FB950" stroke-width="1.75"/>
+<circle cx="936.0" cy="112" r="4" fill="#3FB950"/>
+<text class="lb" x="684.0" y="146" text-anchor="middle">Backend</text>
+<text class="lb" x="873.0" y="146" text-anchor="middle">Infra</text>
+</svg>
