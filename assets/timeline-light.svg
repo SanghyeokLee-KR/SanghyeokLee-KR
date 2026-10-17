@@ -1,65 +1,84 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 476" width="1000" height="476" font-family="-apple-system, 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif" role="img" aria-label="2024년부터 2026년까지의 프로젝트 타임라인">
-<style>.n{font-size:13.5px;font-weight:600;fill:#1F2328}.d{font-size:12.5px;fill:#59636E}.t{font-size:11.5px;fill:#59636E}.y{font-size:12px;font-weight:600;fill:#59636E;letter-spacing:.04em}</style>
-<circle cx="20" cy="18" r="4.5" fill="#3B6FD8"/>
-<text class="t" x="30" y="22">백엔드 · 서비스</text>
-<circle cx="129.2" cy="18" r="4.5" fill="#1A9B67"/>
-<text class="t" x="139.2" y="22">인프라 · 운영</text>
-<line x1="262.0" y1="46" x2="262.0" y2="426" stroke="#EEF1F4" stroke-width="1"/>
-<line x1="290.4" y1="46" x2="290.4" y2="426" stroke="#EEF1F4" stroke-width="1"/>
-<line x1="317.8" y1="46" x2="317.8" y2="426" stroke="#EEF1F4" stroke-width="1"/>
-<line x1="346.2" y1="46" x2="346.2" y2="426" stroke="#EEF1F4" stroke-width="1"/>
-<line x1="373.6" y1="46" x2="373.6" y2="426" stroke="#EEF1F4" stroke-width="1"/>
-<line x1="402.0" y1="46" x2="402.0" y2="426" stroke="#EEF1F4" stroke-width="1"/>
-<line x1="446.0" y1="46" x2="446.0" y2="426" stroke="#EEF1F4" stroke-width="1"/>
-<line x1="537.0" y1="46" x2="537.0" y2="426" stroke="#EEF1F4" stroke-width="1"/>
-<line x1="625.0" y1="46" x2="625.0" y2="426" stroke="#EEF1F4" stroke-width="1"/>
-<line x1="716.0" y1="46" x2="716.0" y2="426" stroke="#EEF1F4" stroke-width="1"/>
-<line x1="807.0" y1="46" x2="807.0" y2="426" stroke="#EEF1F4" stroke-width="1"/>
-<line x1="895.0" y1="46" x2="895.0" y2="426" stroke="#EEF1F4" stroke-width="1"/>
-<line x1="986.0" y1="46" x2="986.0" y2="426" stroke="#EEF1F4" stroke-width="1"/>
-<line x1="14" y1="426" x2="226" y2="426" stroke="#D1D9E0" stroke-width="1.5"/>
-<line x1="262" y1="426" x2="402" y2="426" stroke="#D1D9E0" stroke-width="1.5"/>
-<line x1="446" y1="426" x2="986" y2="426" stroke="#D1D9E0" stroke-width="1.5"/>
-<line x1="237.5" y1="432" x2="243.5" y2="420" stroke="#D1D9E0" stroke-width="1.5" stroke-linecap="round"/>
-<line x1="244.5" y1="432" x2="250.5" y2="420" stroke="#D1D9E0" stroke-width="1.5" stroke-linecap="round"/>
-<line x1="417.5" y1="432" x2="423.5" y2="420" stroke="#D1D9E0" stroke-width="1.5" stroke-linecap="round"/>
-<line x1="424.5" y1="432" x2="430.5" y2="420" stroke="#D1D9E0" stroke-width="1.5" stroke-linecap="round"/>
-<text class="t" x="266.0" y="443">8월</text>
-<text class="t" x="294.4" y="443">9월</text>
-<text class="t" x="321.8" y="443">10월</text>
-<text class="t" x="350.2" y="443">11월</text>
-<text class="t" x="377.6" y="443">12월</text>
-<text class="t" x="450.0" y="443">5월</text>
-<text class="t" x="541.0" y="443">6월</text>
-<text class="t" x="629.0" y="443">7월</text>
-<text class="t" x="720.0" y="443">8월</text>
-<text class="t" x="811.0" y="443">9월</text>
-<text class="t" x="899.0" y="443">10월</text>
-<text class="y" x="14" y="464">2024</text>
-<text class="y" x="262" y="464">2025</text>
-<text class="y" x="446" y="464">2026</text>
-<rect x="18.0" y="59" width="62.7" height="10" rx="5" fill="#3B6FD8"/>
-<text x="90.7" y="68.5"><tspan class="n">BookRidge</tspan><tspan class="d" dx="8">콘솔 도서 관리</tspan></text>
-<rect x="88.7" y="89" width="62.7" height="10" rx="5" fill="#3B6FD8"/>
-<text x="161.3" y="98.5"><tspan class="n">DevHub</tspan><tspan class="d" dx="8">개발자 커뮤니티</tspan></text>
-<rect x="159.3" y="119" width="62.7" height="10" rx="5" fill="#3B6FD8"/>
-<text x="232.0" y="128.5"><tspan class="n">DeliveryPro</tspan><tspan class="d" dx="8">배달 플랫폼</tspan></text>
-<rect x="289.5" y="149" width="96.1" height="10" rx="5" fill="#3B6FD8"/>
-<text x="395.5" y="158.5"><tspan class="n">SafetyNevi</tspan><tspan class="d" dx="8">재난 대피 안내</tspan></text>
-<rect x="454.8" y="179" width="85.1" height="10" rx="5" fill="#3B6FD8"/>
-<text x="549.9" y="188.5"><tspan class="n">polytalk</tspan><tspan class="d" dx="8">종단 간 암호화 채팅</tspan></text>
-<rect x="475.3" y="209" width="76.3" height="10" rx="5" fill="#3B6FD8"/>
-<text x="561.7" y="218.5"><tspan class="n">kopo-ecommerce-evolution</tspan><tspan class="d" dx="8">쇼핑몰 세 단계 재구현</tspan></text>
-<circle cx="531.1" cy="244" r="5.5" fill="#1A9B67"/>
-<text x="546.6" y="248.5"><tspan class="n">keep-nginx-alive</tspan><tspan class="d" dx="8">CTF 가용성 방어</tspan></text>
-<circle cx="559.0" cy="274" r="5.5" fill="#1A9B67"/>
-<text x="574.5" y="278.5"><tspan class="n">ai-lunch-curator</tspan><tspan class="d" dx="8">점심 알림 배포 자동화</tspan></text>
-<circle cx="572.2" cy="304" r="5.5" fill="#1A9B67"/>
-<text x="587.7" y="308.5"><tspan class="n">high-throughput-image-pipeline</tspan><tspan class="d" dx="8">이미지 수집 처리율</tspan></text>
-<rect x="589.8" y="329" width="20.5" height="10" rx="5" fill="#3B6FD8"/>
-<text x="620.3" y="338.5"><tspan class="n">appintoss-meetup</tspan><tspan class="d" dx="8">합주 미니앱 출시</tspan></text>
-<rect x="630.9" y="359" width="32.3" height="10" rx="5" fill="#3B6FD8"/>
-<text x="673.2" y="368.5"><tspan class="n">sangkwon-platform-poly</tspan><tspan class="d" dx="8">상권분석 플랫폼</tspan></text>
-<rect x="686.7" y="389" width="252.4" height="10" rx="5" fill="#1A9B67"/>
-<text x="676.7" y="398.5" text-anchor="end"><tspan class="n">failstop</tspan><tspan class="d" dx="8">고가용성 인프라와 AI 관제</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 414" width="1000" height="414" font-family="-apple-system, 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif" role="img" aria-label="2024년부터 2026년까지 프로젝트 타임라인. 위는 백엔드·서비스, 아래는 인프라·운영 트랙">
+<style>.n,.d{paint-order:stroke;stroke:#f6f8fa;stroke-width:4px;stroke-linejoin:round}.n{font-size:13px;font-weight:600;fill:#1f2328}.d{font-size:12px;fill:#59636e}.tk{font-size:12px;font-weight:600;fill:#1f2328}.m{font-size:12px;fill:#6e7781;font-variant-numeric:tabular-nums}.tag{font-size:12px;fill:#59636e}.y{font-size:12px;font-weight:600;fill:#59636e;font-variant-numeric:tabular-nums}</style>
+<rect x="104" y="4" width="148" height="179" rx="4" fill="#f6f8fa"/>
+<rect x="272" y="4" width="128" height="179" rx="4" fill="#f6f8fa"/>
+<rect x="420" y="4" width="578" height="179" rx="4" fill="#f6f8fa"/>
+<line x1="297.9" y1="4" x2="297.9" y2="183" stroke="#e6eaef" stroke-width="1"/>
+<line x1="323.0" y1="4" x2="323.0" y2="183" stroke="#e6eaef" stroke-width="1"/>
+<line x1="349.0" y1="4" x2="349.0" y2="183" stroke="#e6eaef" stroke-width="1"/>
+<line x1="374.1" y1="4" x2="374.1" y2="183" stroke="#e6eaef" stroke-width="1"/>
+<line x1="517.4" y1="4" x2="517.4" y2="183" stroke="#e6eaef" stroke-width="1"/>
+<line x1="611.6" y1="4" x2="611.6" y2="183" stroke="#e6eaef" stroke-width="1"/>
+<line x1="709.0" y1="4" x2="709.0" y2="183" stroke="#e6eaef" stroke-width="1"/>
+<line x1="806.4" y1="4" x2="806.4" y2="183" stroke="#e6eaef" stroke-width="1"/>
+<line x1="900.6" y1="4" x2="900.6" y2="183" stroke="#e6eaef" stroke-width="1"/>
+<rect x="0" y="19.0" width="8" height="8" rx="2" fill="#0969da"/>
+<text class="tk" x="14" y="27.3">백엔드 · 서비스</text>
+<rect x="104" y="193" width="148" height="179" rx="4" fill="#f6f8fa"/>
+<rect x="272" y="193" width="128" height="179" rx="4" fill="#f6f8fa"/>
+<rect x="420" y="193" width="578" height="179" rx="4" fill="#f6f8fa"/>
+<line x1="297.9" y1="193" x2="297.9" y2="372" stroke="#e6eaef" stroke-width="1"/>
+<line x1="323.0" y1="193" x2="323.0" y2="372" stroke="#e6eaef" stroke-width="1"/>
+<line x1="349.0" y1="193" x2="349.0" y2="372" stroke="#e6eaef" stroke-width="1"/>
+<line x1="374.1" y1="193" x2="374.1" y2="372" stroke="#e6eaef" stroke-width="1"/>
+<line x1="517.4" y1="193" x2="517.4" y2="372" stroke="#e6eaef" stroke-width="1"/>
+<line x1="611.6" y1="193" x2="611.6" y2="372" stroke="#e6eaef" stroke-width="1"/>
+<line x1="709.0" y1="193" x2="709.0" y2="372" stroke="#e6eaef" stroke-width="1"/>
+<line x1="806.4" y1="193" x2="806.4" y2="372" stroke="#e6eaef" stroke-width="1"/>
+<line x1="900.6" y1="193" x2="900.6" y2="372" stroke="#e6eaef" stroke-width="1"/>
+<rect x="0" y="208.0" width="8" height="8" rx="2" fill="#1a7f37"/>
+<text class="tk" x="14" y="216.3">인프라 · 운영</text>
+<rect x="116.0" y="20.0" width="22.0" height="6" rx="3.0" fill="#0969da"/>
+<text class="n" x="116.0" y="41">BookRidge</text>
+<text class="d" x="116.0" y="57">콘솔 도서 관리</text>
+<rect x="144.0" y="74.0" width="22.0" height="6" rx="3.0" fill="#0969da"/>
+<text class="n" x="144.0" y="95">DevHub</text>
+<text class="d" x="144.0" y="111">개발자 커뮤니티</text>
+<rect x="172.0" y="128.0" width="22.0" height="6" rx="3.0" fill="#0969da"/>
+<text class="n" x="172.0" y="149">DeliveryPro</text>
+<text class="d" x="172.0" y="165">배달 플랫폼</text>
+<rect x="297.1" y="20.0" width="88.7" height="6" rx="3.0" fill="#0969da"/>
+<text class="n" x="297.1" y="41">SafetyNevi</text>
+<text class="d" x="297.1" y="57">재난 대피 안내</text>
+<rect x="429.4" y="20.0" width="94.2" height="6" rx="3.0" fill="#0969da"/>
+<text class="n" x="429.4" y="41">polytalk</text>
+<text class="d" x="429.4" y="57">종단 간 암호화 채팅</text>
+<rect x="451.4" y="74.0" width="84.8" height="6" rx="3.0" fill="#0969da"/>
+<text class="n" x="451.4" y="95">kopo-ecommerce-evolution</text>
+<text class="d" x="451.4" y="111">쇼핑몰 세 단계 재구현</text>
+<rect x="508.0" y="209.0" width="9.4" height="6" rx="3.0" fill="#1a7f37"/>
+<text class="n" x="508.0" y="230">keep-nginx-alive</text>
+<text class="d" x="508.0" y="246">CTF 가용성 방어</text>
+<rect x="539.4" y="263.0" width="6.3" height="6" rx="3.0" fill="#1a7f37"/>
+<text class="n" x="539.4" y="284">ai-lunch-curator</text>
+<text class="d" x="539.4" y="300">점심 알림 배포 자동화</text>
+<rect x="553.6" y="317.0" width="6.0" height="6" rx="3.0" fill="#1a7f37"/>
+<text class="n" x="553.6" y="338">high-throughput-image-pipeline</text>
+<text class="d" x="553.6" y="354">이미지 수집 처리율</text>
+<rect x="573.9" y="20.0" width="25.1" height="6" rx="3.0" fill="#0969da"/>
+<text class="n" x="573.9" y="41">appintoss-meetup</text>
+<text class="d" x="573.9" y="57">합주 미니앱 출시</text>
+<rect x="617.9" y="128.0" width="37.7" height="6" rx="3.0" fill="#0969da"/>
+<text class="n" x="617.9" y="149">sangkwon-platform-poly</text>
+<text class="d" x="617.9" y="165">상권분석 플랫폼</text>
+<rect x="677.6" y="208.0" width="273.3" height="8" rx="4.0" fill="#1a7f37"/>
+<text class="n" x="677.6" y="230">failstop</text>
+<text class="d" x="677.6" y="246">고가용성 인프라와 AI 관제</text>
+<rect x="914.9" y="225.0" width="36" height="18" rx="9" fill="none" stroke="#d1d9e0"/>
+<text class="tag" x="932.9" y="238.2" text-anchor="middle">대표</text>
+<text class="m" x="277.0" y="390">08</text>
+<text class="m" x="302.9" y="390">09</text>
+<text class="m" x="328.0" y="390">10</text>
+<text class="m" x="354.0" y="390">11</text>
+<text class="m" x="379.1" y="390">12</text>
+<text class="m" x="425.0" y="390">05</text>
+<text class="m" x="522.4" y="390">06</text>
+<text class="m" x="616.6" y="390">07</text>
+<text class="m" x="714.0" y="390">08</text>
+<text class="m" x="811.4" y="390">09</text>
+<text class="m" x="905.6" y="390">10</text>
+<text class="m" x="109" y="390">순서만 표시</text>
+<text class="y" x="109" y="408">2024</text>
+<text class="y" x="277" y="408">2025</text>
+<text class="y" x="425" y="408">2026</text>
 </svg>
