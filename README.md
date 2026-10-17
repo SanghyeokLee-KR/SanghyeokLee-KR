@@ -4,7 +4,7 @@
   <img alt="Lee Sang Hyeok · System · Infra Engineer" src="assets/banner-light.svg" width="100%" />
 </picture>
 
-## About Me
+## 소개
 
 백엔드 개발로 시작해, 지금은 서버를 직접 세우고 운영하는 인프라 쪽을 공부하고 있습니다.
 
@@ -77,7 +77,7 @@ contact  ·  [kljl6773@gmail.com](mailto:kljl6773@gmail.com)
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg" />
   <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
   <img alt="3D로 그린 잔디" src="profile-3d-contrib/profile-green-animate.svg" />
 </picture>

@@ -28,6 +28,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: 레이더 · 원그래프 · 숫자 줄 지우기
+        run: python3 .github/scripts/strip-3d.py profile-3d-contrib/profile-green-animate.svg profile-3d-contrib/profile-night-green.svg
+
       - name: 바뀐 그림 커밋
         run: |
           git config user.name github-actions

@@ -5,8 +5,6 @@
 <text class="lg" x="197" y="30.5">백엔드 · 서비스</text>
 <circle data-k="legend" cx="315" cy="26" r="4.5" fill="#3FB950"/>
 <text class="lg" x="328" y="30.5">인프라 · 운영</text>
-<line data-k="legend-gap" x1="434" y1="18" x2="434" y2="34" stroke="#656C76" stroke-width="2" stroke-linecap="round" stroke-dasharray="0.01 5.33"/>
-<text class="lg" x="447" y="30.5">빈 기간</text>
 <line data-k="rule" x1="24" y1="44.5" x2="976" y2="44.5" stroke="#3D444D" stroke-width="1"/>
 <line data-k="axis" x1="184" y1="91" x2="184" y2="109.5" stroke="#3D444D" stroke-width="1.5"/>
 <line data-k="axis" x1="184" y1="126.5" x2="184" y2="159.5" stroke="#3D444D" stroke-width="1.5"/>
@@ -26,54 +24,50 @@
 <text class="nm" x="206" y="85">failstop</text>
 <rect data-k="tag" x="272" y="70" width="34" height="20" rx="10" fill="none" stroke="#3FB950" stroke-width="1"/>
 <text class="tag" x="289" y="84.2" text-anchor="middle">대표</text>
-<text class="ds" x="480" y="85">고가용성 인프라와 AI 관제</text>
+<line data-k="leader" x1="320.0" y1="80" x2="870.8" y2="80" stroke="#656C76" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="0.01 6"/>
 <text class="dt" x="976" y="85" text-anchor="end">07.22 ~ 10.16</text>
 <circle data-k="dot" cx="184" cy="118" r="4.5" fill="#4493F8"/>
 <text class="nm" x="206" y="123">sangkwon-platform-poly</text>
-<text class="ds" x="480" y="123">상권분석 플랫폼</text>
+<line data-k="leader" x1="423.7" y1="118" x2="870.8" y2="118" stroke="#656C76" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="0.01 6"/>
 <text class="dt" x="976" y="123" text-anchor="end">07.03 ~ 07.14</text>
 <text class="mo" x="164" y="173" text-anchor="end">6월</text>
 <circle data-k="dot" cx="184" cy="168" r="4.5" fill="#4493F8"/>
 <text class="nm" x="206" y="173">appintoss-meetup</text>
-<text class="ds" x="480" y="173">합주 미니앱 출시</text>
+<line data-k="leader" x1="368.8" y1="168" x2="870.8" y2="168" stroke="#656C76" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="0.01 6"/>
 <text class="dt" x="976" y="173" text-anchor="end">06.19 ~ 06.26</text>
 <circle data-k="dot" cx="184" cy="206" r="4.5" fill="#3FB950"/>
 <text class="nm" x="206" y="211">high-throughput-image-pipeline</text>
-<text class="ds" x="480" y="211">이미지 수집 처리율</text>
+<line data-k="leader" x1="486.4" y1="206" x2="926.2" y2="206" stroke="#656C76" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="0.01 6"/>
 <text class="dt" x="976" y="211" text-anchor="end">06.13</text>
 <circle data-k="dot" cx="184" cy="244" r="4.5" fill="#3FB950"/>
 <text class="nm" x="206" y="249">ai-lunch-curator</text>
-<text class="ds" x="480" y="249">점심 알림 배포 자동화</text>
+<line data-k="leader" x1="352.7" y1="244" x2="870.8" y2="244" stroke="#656C76" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="0.01 6"/>
 <text class="dt" x="976" y="249" text-anchor="end">06.08 ~ 06.09</text>
 <text class="mo" x="164" y="299" text-anchor="end">5월</text>
 <circle data-k="dot" cx="184" cy="294" r="4.5" fill="#3FB950"/>
 <text class="nm" x="206" y="299">keep-nginx-alive</text>
-<text class="ds" x="480" y="299">CTF 가용성 방어</text>
+<line data-k="leader" x1="356.4" y1="294" x2="871.6" y2="294" stroke="#656C76" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="0.01 6"/>
 <text class="dt" x="976" y="299" text-anchor="end">05.29 ~ 05.31</text>
 <circle data-k="dot" cx="184" cy="332" r="4.5" fill="#4493F8"/>
 <text class="nm" x="206" y="337">kopo-ecommerce-evolution</text>
-<text class="ds" x="480" y="337">쇼핑몰 세 단계 재구현</text>
+<line data-k="leader" x1="446.7" y1="332" x2="870.8" y2="332" stroke="#656C76" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="0.01 6"/>
 <text class="dt" x="976" y="337" text-anchor="end">05.11 ~ 06.06</text>
 <circle data-k="dot" cx="184" cy="370" r="4.5" fill="#4493F8"/>
 <text class="nm" x="206" y="375">polytalk</text>
-<text class="ds" x="480" y="375">종단 간 암호화 채팅</text>
+<line data-k="leader" x1="286.0" y1="370" x2="870.8" y2="370" stroke="#656C76" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="0.01 6"/>
 <text class="dt" x="976" y="375" text-anchor="end">05.04 ~ 06.02</text>
 <text class="yr" x="24" y="456">2025</text>
 <text class="mo" x="164" y="453" text-anchor="end">8월</text>
 <circle data-k="dot" cx="184" cy="448" r="4.5" fill="#4493F8"/>
 <text class="nm" x="206" y="453">SafetyNevi</text>
-<text class="ds" x="480" y="453">재난 대피 안내</text>
+<line data-k="leader" x1="307.5" y1="448" x2="870.8" y2="448" stroke="#656C76" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="0.01 6"/>
 <text class="dt" x="976" y="453" text-anchor="end">08.31 ~ 12.14</text>
 <text class="yr" x="24" y="534">2024</text>
-<text class="cap" x="24" y="558">월 미상 · 순서만</text>
 <circle data-k="dot" cx="184" cy="526" r="4.5" fill="#4493F8"/>
 <text class="nm" x="206" y="531">DeliveryPro</text>
-<text class="ds" x="480" y="531">배달 플랫폼</text>
 <circle data-k="dot" cx="184" cy="564" r="4.5" fill="#4493F8"/>
 <text class="nm" x="206" y="569">DevHub</text>
-<text class="ds" x="480" y="569">개발자 커뮤니티</text>
 <circle data-k="dot" cx="184" cy="602" r="4.5" fill="#4493F8"/>
 <text class="nm" x="206" y="607">BookRidge</text>
-<text class="ds" x="480" y="607">콘솔 도서 관리</text>
 <line data-k="rule" x1="24" y1="636.5" x2="976" y2="636.5" stroke="#3D444D" stroke-width="1"/>
 </svg>
