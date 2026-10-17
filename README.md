@@ -57,6 +57,7 @@ contact  ·  [kljl6773@gmail.com](mailto:kljl6773@gmail.com)
       <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white" alt="JPA" height="26" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" height="26" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" height="26" />
+      <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white" alt="Thymeleaf" height="26" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle" height="26" />
