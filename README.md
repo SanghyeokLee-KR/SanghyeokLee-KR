@@ -13,7 +13,7 @@ contact  ·  [kljl6773@gmail.com](mailto:kljl6773@gmail.com)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/timeline-light.svg" />
-  <img alt="2024년부터 2026년까지 진행한 프로젝트 타임라인" src="assets/timeline-light.svg" width="100%" />
+  <img alt="2026년부터 2024년까지 최근 순으로 정리한 프로젝트 타임라인" src="assets/timeline-light.svg" width="100%" />
 </picture>
 
 ## 주요 프로젝트
