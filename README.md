@@ -1,14 +1,16 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
-  <img alt="Lee Sang Hyeok · System · Infra Engineer" src="assets/banner-light.svg" width="100%" />
+  <img alt="Lee Sang Hyeok · Backend · Infrastructure Engineer" src="assets/banner-light.svg" width="100%" />
 </picture>
 
 ## 소개
 
-백엔드 개발로 시작해, 지금은 서버를 직접 세우고 운영하는 인프라 쪽을 공부하고 있습니다.
+백엔드 개발을 시작으로, 지금은 시스템·인프라도 함께 공부하고 있습니다.
 
-contact  ·  [kljl6773@gmail.com](mailto:kljl6773@gmail.com)
+온프레미스와 클라우드 환경에서 서버를 직접 구축하며, 장애 대응과 성능 병목 개선에 관심을 두고 있습니다.
+
+Email · [kljl6773@gmail.com](mailto:kljl6773@gmail.com)
 
 ## 프로젝트 타임라인
 
